@@ -1,0 +1,23 @@
+{
+  "name": "tunersbay",
+  "version": "1.0.0",
+  "description": "projeto final da cadeira de ti2 vertente client side",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TI2FrontEnd/TunersBay.git"
+  },
+  "keywords": [
+    "car",
+    "culture"
+  ],
+  "author": "fsriachos & joaoxpedrox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TI2FrontEnd/TunersBay/issues"
+  },
+  "homepage": "https://github.com/TI2FrontEnd/TunersBay#readme"
+}
